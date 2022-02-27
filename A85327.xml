@@ -1,0 +1,471 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Faith in five fundamentall principles, strongly fortified against the diabolical, atheisticall, blasphemous batteries of these times Serving for the conviction of opposers, the satisfaction of doubters, and the confirmation of believers. In a conference which a godly independent minister and a godly Presbyterian minister had with a doubting Christian. By E.F. a seeker of the truth.</title>
+            <author>Fisher, Edward, fl. 1627-1655.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1650</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 71 KB of XML-encoded text transcribed from 29 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A85327</idno>
+            <idno type="STC">Wing F993</idno>
+            <idno type="STC">Thomason E1375_2</idno>
+            <idno type="STC">ESTC R209221</idno>
+            <idno type="EEBO-CITATION">99868111</idno>
+            <idno type="PROQUEST">99868111</idno>
+            <idno type="VID">169873</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A85327)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 169873)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 180:E1375[2])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Faith in five fundamentall principles, strongly fortified against the diabolical, atheisticall, blasphemous batteries of these times Serving for the conviction of opposers, the satisfaction of doubters, and the confirmation of believers. In a conference which a godly independent minister and a godly Presbyterian minister had with a doubting Christian. By E.F. a seeker of the truth.</title>
+                  <author>Fisher, Edward, fl. 1627-1655.</author>
+               </titleStmt>
+               <extent>[4], 52 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Wright at the Kings Head in the old Bailey,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1650.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>E.F. = Edward Fisher.</note>
+                  <note>Annotation on Thomason copy: "Aprill. 30".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Christianity --  Controversial literature --  Early works to 1800.</term>
+               <term>Faith --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-10</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-01</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2014-01</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:169873:1" rendition="simple:additions"/>
+            <p>FAITH In Five Fundamentall Principles, Strongly Fortified againſt the Diabolical, Atheiſticall, blaſphemous Batteries of theſe Times.</p>
+            <p>Serving for the conviction of Oppoſers, the ſatisfaction of Doubters, and the Confirmation of Believers.</p>
+            <p>In a Conference which a godly Inde<g ref="char:EOLhyphen"/>pendant Miniſter and a godly Preſ<g ref="char:EOLhyphen"/>byterian Miniſter had with a doubting Chriſtian.</p>
+            <p>By <hi>E. F.</hi> a ſeeker of the Truth.</p>
+            <q>
+               <bibl>2 COR. 13. 8.</bibl> We can do nothing againſt the truth, but for the truth.</q>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>John Wright</hi> at the Kings Head in the old Bailey. 1650.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:169873:2"/>
+            <pb facs="tcp:169873:2"/>
+            <head>The Author to the Reader.</head>
+            <p>
+               <seg rend="decorInit">L</seg>Ike as it is good Military po<g ref="char:EOLhyphen"/>licy, when the Inhabitants of one City do heare and un<g ref="char:EOLhyphen"/>derſtand, that the common enemy hath not onely aſſaul<g ref="char:EOLhyphen"/>ted, but alſo vanquiſhed another City with<g ref="char:EOLhyphen"/>in the ſame Dominions, to uſe all the means they can to fortifie themſelves a<g ref="char:EOLhyphen"/>gainſt him; even ſo do I conceive it to be good Chriſtian policy, when one Chriſtian doth heare and underſtand that the com<g ref="char:EOLhyphen"/>mon enemy Satan, hath not onely aſſaulted but alſo vanquiſhed the faith of others, to uſe al the means he can to fortifie his own. Therefore I being credibly given to under<g ref="char:EOLhyphen"/>ſtand that this foule Fiend hath vanquiſh<g ref="char:EOLhyphen"/>ed the faith of ſome men, touching theſe five Fundamentall Principles, did thinke it to be good policy in me, to uſe all the means I could to fortifie my faith in them, by ſearching all the Magazines I could
+<pb facs="tcp:169873:3"/> finde for the beſt Ammunition therein con<g ref="char:EOLhyphen"/>tained, and to place it in the beſt order I could for my faith's defence. And having ſo done (conſidering it to be Ammuniti<g ref="char:EOLhyphen"/>on of that nature as might be communi<g ref="char:EOLhyphen"/>cated to the defence of others, and yet be no leſſe uſefull to my ſelf, I thought it my duty to make it common by committing it to the Preſſe.</p>
+            <p>But yet alas what are all theſe humane perſwaſions grounded on reaſon, without the teſtimony of Gods Spirit in our hearts, truly nothing. Let us therefore in the reading of theſe things, lift up our prayer to God for the powerfull work of his Spi<g ref="char:EOLhyphen"/>rit to ſeale up unto our hearts the truth of theſe Principles. And the Lord grant our Petitions for his Mercies ſake in Chriſt.</p>
+            <closer>Amen.</closer>
+         </div>
+      </front>
+      <body>
+         <div type="dialogue">
+            <pb n="1" facs="tcp:169873:3"/>
+            <head>FAITH in five Fundamen<g ref="char:EOLhyphen"/>tall PRINCIPLES.</head>
+            <stage>
+               <list>
+                  <head>INTERLOCUTORS,</head>
+                  <item>
+                     <hi>A moderate Independant Miniſter.</hi>
+                  </item>
+                  <item>
+                     <hi>A moderate Presbyterian Miniſter.</hi>
+                  </item>
+                  <item>
+                     <hi>And a tempted doubting Chriſtian.</hi>
+                  </item>
+               </list>
+            </stage>
+            <sp>
+               <speaker>Presbyterian.</speaker>
+               <p>
+                  <seg rend="decorInit">Y</seg>Ou are well met, good Mr. B. whither are you going ſo faſt this way, if a man may know?</p>
+            </sp>
+            <sp>
+               <speaker>Ind.</speaker>
+               <p>Why truly Mr. <hi>H.</hi> I am going whither I wiſh you would go alſo; and that is to meet a man whom I am perſwaded is truly godly, and yet by reaſon he hath been accuſtomed of late to frequent the meetings of divers erro<g ref="char:EOLhyphen"/>nious perſons, he ſeemeth to be ſomewhat tainted with divers of their erronious opini<g ref="char:EOLhyphen"/>ons,
+<pb n="2" facs="tcp:169873:4"/> at leaſt to make queſtion of divers fun<g ref="char:EOLhyphen"/>damentall truths, and is unſetled in his judgement; and my intent in going to meet with him, is to do mine indeavour to ſhew him the truth, and ſettle him in the ſame<g ref="char:punc">▪</g> And truly, Sir, if your occaſions will permit you, I think you ſhall do very well if you go with me, and afford us your aſſiſtance.</p>
+            </sp>
+            <sp>
+               <speaker>Preſ.</speaker>
+               <p>But Sir, if we go ſhall we be ſure to meet with him think you, and will he be wil<g ref="char:EOLhyphen"/>ling to confer with us?</p>
+            </sp>
+            <sp>
+               <speaker>Ind.</speaker>
+               <p>Sir, the man ſeems to be of an hum<g ref="char:EOLhyphen"/>ble ſpirit, and willing to ſee his errours and to know the truth, and it is his own deſire that I ſhould meet him this day at a conveni<g ref="char:EOLhyphen"/>ent place not far hence, to anſwer his doubts.</p>
+            </sp>
+            <sp>
+               <speaker>Preſ.</speaker>
+               <p>Well Sir, then will I defer the buſi<g ref="char:EOLhyphen"/>neſſe which I was going about till to mor<g ref="char:EOLhyphen"/>row, and go along with you <gap reason="illegible" resp="#MURP" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> you do de<g ref="char:EOLhyphen"/>ſire it, and ſpend this afternoon with you.</p>
+            </sp>
+            <sp>
+               <speaker>Ind.</speaker>
+               <p>The houre he hath appointed for our meeting is one of the clock, and I think it is now about that time.</p>
+            </sp>
+            <sp>
+               <speaker>Preſ.</speaker>
+               <p>Yea indeed I think it is.</p>
+            </sp>
+            <sp>
+               <speaker>Ind.</speaker>
+               <p>Well yonders is the place, and yon<g ref="char:EOLhyphen"/>der comes the man.</p>
+            </sp>
+            <sp>
+               <speaker>Preſ.</speaker>
+               <p>Doth he meet you alone?</p>
+            </sp>
+            <sp>
+               <speaker>Ind.</speaker>
+               <p>Yea ſo it ſeems.</p>
+            </sp>
+            <sp>
+               <speaker>Chriſt.</speaker>
+               <p>Oh Sir are you come according to
+<pb n="3" facs="tcp:169873:4"/> your promiſe, how much am I obliged unto you?</p>
+            </sp>
+            <sp>
+               <speaker>Ind.</speaker>
+               <p>Yea, I am not onely come my ſelfe, but meeting with this godly Miniſter by the way, I have deſired him to come along with me.</p>
+            </sp>
+            <sp>
+               <speaker>Chriſt.</speaker>
+               <p>Sir I humbly thank you, I know Mr. <hi>H.</hi> very well, and he is very welcome to me.</p>
+            </sp>
+            <sp>
+               <speaker>Ind.</speaker>
+               <p>Well now my loving friend, if you will be pleaſed to propound your doubts, we ſhall be ready to anſwer you as the Lord ſhal enable us.</p>
+            </sp>
+            <sp>
+               <speaker>Chriſt.</speaker>
+               <p>Why truly, Sir, as you know I hinted unto you before, I have lately been where many points of Divinity have beene queſtioned and controverted, and ſome of them flatly denied, which hath made many ſcruples ariſe in my heart, and eſpecially about five fundamentall principles.</p>
+            </sp>
+            <sp>
+               <speaker>Ind.</speaker>
+               <p>What be they I pray you?</p>
+            </sp>
+            <sp>
+               <speaker>Chriſt.</speaker>
+               <p>Why truly I am afraid to name them, yet being I am in hope to receive ſa<g ref="char:EOLhyphen"/>tisfaction from you, I ſhall adventure to tell you:</p>
+               <p>
+                  <hi>Firſt, that I make ſome queſtion, whether there be a God.</hi>
+               </p>
+               <p>
+                  <hi>Secondly, whether thoſe Books which are called the Scriptures be the Word of God.</hi>
+               </p>
+               <pb n="4" facs="tcp:169873:5"/>
+               <p>
+                  <hi>Thirdly, Whether the Sonne and Holy Ghoſt be God?</hi>
+               </p>
+               <p>
+                  <hi>Fourthly, Whether the ſoule of man be im<g ref="char:EOLhyphen"/>mortall?</hi>
+               </p>
+               <p>
+                  <hi>And fifthly, Whether there ſhall be a reſur<g ref="char:EOLhyphen"/>rection of the body? And to tell you the truth, all theſe things are denied by ſome in whoſe compa<g ref="char:EOLhyphen"/>ny</hi> I <hi>have lately been.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Ind.</speaker>
+               <p>Surely it is a ſad and lamentable thing that men in theſe daies are growne to ſuch a height of impiety, as flatly to deny theſe fundamentall truths, and ſo as it were to pluck up the foundation it ſelf; ſurely theſe men are meer Libertines and licentious men, for as the firme and ſtrong believing of theſe firſt Principles, is the ground of our exact and even walking with God, ſo when men do not onely queſtion them, but alſo flatly deny them, it is the very roade way to all wickedneſſe and ungodlineſſe; it is therefore time for us that are Miniſters to labour to ſtrengthen theſe Principles both in our own hearts, and in the hearts of others; but bleſ<g ref="char:EOLhyphen"/>ſed be God, my friend, though you make ſome queſtion of them, yet you do not flatly deny them, ſo that there is much more hopes of rooting out theſe ſeeds of Atheiſme out of your heart, then out of theirs who flatly de<g ref="char:EOLhyphen"/>ny them.</p>
+            </sp>
+            <div type="part">
+               <pb n="5" facs="tcp:169873:5"/>
+               <head>Touching the being of the Godhead.</head>
+               <p>And therefore I beſeech you in the firſt place conſider, that the firſt of theſe five Principles, to wit, That there is a God, may be moſt clearly demonſtrated by plain natu<g ref="char:EOLhyphen"/>rall reaſon; for, as <hi>Calvin</hi> truly ſaith, God hath planted in all men a certain underſtan<g ref="char:EOLhyphen"/>ding of his Divine Majeſty, ſo that all men, none excepted do know there is a God; for indeed there is ingraven in the minds of men a certain feeling of the Godhead. And to tell you truly, this Doctrine, That there is a God, is ſuch a Doctrine as every man is a teacher thereof unto himſelf, even from his mothers womb; yea and ſuch a Doctrine as the firſt uſe of reaſon is imployed about, and which nature ſuffereth no man to for<g ref="char:EOLhyphen"/>get: And although there have been ſome men ſo ſapped in wickedneſſe, that they have gone about to deface their owne nature in themſelves, and to the intent they might practiſe all wickedneſſe without check of conſcience, have ſtriven to perſwade them<g ref="char:EOLhyphen"/>ſelves that there is no God to call them to an account, yet hath it been manifeſt by their conſcience accuſing them for their ſinnes, though ſecretly committed, and by their
+<pb n="6" facs="tcp:169873:6"/> quaking and trembling at the apprehenſion of death approaching, that their conſcience have told them by a ſecret perſwaſion, that there is a God. And indeed it hath been ob<g ref="char:EOLhyphen"/>ſerved by ſome of ſuch as were profeſſed A<g ref="char:EOLhyphen"/>theiſts, who though when they were in health and proſperity, were not afraid plain<g ref="char:EOLhyphen"/>ly to aſſert that there is no God, yet when they came to lye on their death beds, none ſeemed to be more afraid of a God, and at his power to judge and condemne them as theſe men have been. Whereupon <hi>Zenothe</hi> the Philoſopher hath this ſaying, <hi>If I would per<g ref="char:EOLhyphen"/>ſwade any man from Atheiſm,</hi> I <hi>would lead him to the bed of an Atheiſt, where he is gaſping out his laſt breath.</hi>
+               </p>
+               <p n="1">1. And that it may more plainly appear unto you that this knowledge of the God<g ref="char:EOLhyphen"/>head is rooted in nature, I beſeech you con<g ref="char:EOLhyphen"/>ſider that it is manifeſt by the practiſe of the very Heathen, for there hath never beene heard of any Nation ſo barbarous, nor no people ſo ſavage ſince the beginning of the world, that ever were without ſome kinde of Religion; let a man run from eaſt to weſt, from north to ſouth, let him ranſack all ages one after another, and every Coun<g ref="char:EOLhyphen"/>try, City, and Family, and whereſoever he findeth a man, there ſhall he alſo finde ſome
+<pb n="7" facs="tcp:169873:6"/> kinde of Religion and ſerving of God; by the which it is evident, that all Nations do acknowledge a God, and that it is a generall effect in the heart of every man living, and therefore it muſt needs come from a generall cauſe; I mean when we finde it in the hearts of all men in all Nations and ages, then muſt we needs conclude, that it is an univer<g ref="char:EOLhyphen"/>ſall effect written in the hearts of all men naturally, by the generall Author of all things, and that is the very ſame whom we call God.</p>
+               <p n="2">2. And I would intreat and beſeech you alſo in the ſecond place to conſider, that God hath not onely planted this knowledge of himſelf in the hearts and mindes of men, but he hath alſo manifeſted himſelf in the whole workmanſhip of the world. For ac<g ref="char:EOLhyphen"/>cording to the teſtimony of the Apoſtle, <hi>Rom.</hi> 1. 19. there is diſcloſed unto man ſo much concerning God, as to leave him without excuſe, becauſe all men may throughly ſee his inviſible things, even his very Power and Godhead by the very creation of the world; ſo that as the ſame Apoſtle doth intimate, <hi>Acts</hi> 17. 27. by the very things which we ſee, handle, and touch, we may know there is a God, for which way ſoever man turneth his eyes, there is no parcell of the world, be it
+<pb n="8" facs="tcp:169873:7"/> never ſo ſmall, wherein are not ſeen at leaſt ſome ſparkles of his Divine Image; ſo that I ſay unto you, if you do not ſhut your eyes you muſt needs ſee in the creatures a witneſſe of the Godhead.</p>
+               <p n="1">1. As for example, if you do but looke upon your ſelf and conſider whence you are, then muſt you needs acknowledge that you cannot have your being from your ſelf; for to have your being from your ſelf, were as much in effect as to be a God; but I hope you do not think you are a God, and that therefore you have not your being from your ſelf. Whence then had you your originall? if you looke to your father, and thinke you had it from him, then muſt you needs conſi<g ref="char:EOLhyphen"/>der that your father had a father, and ſo from father to father till you come to the firſt man; and if you conſider the firſt man, you muſt needs conclude that he could not make himſelf, for no creature can be the authour of it ſelf, for if it could, then ſhould it be both the cauſe and effect, and ſo conſequent<g ref="char:EOLhyphen"/>ly be both before and after it ſelf, which is impoſſible. This is moſt certain, that what<g ref="char:EOLhyphen"/>ſoever hath a beginning is from another, for nothing that had a beginning can be the cauſe of it ſelf: But you and all men had a beginning, and therefore from another;
+<pb n="9" facs="tcp:169873:7"/> whence it muſt needs follow, that you and all men had a beginning, and that from him who is without beginning, who can be none other but the ſame whom we call God.</p>
+               <p n="2">2. Secondly, if you do but conſider the parts of your own body, and conſider ſo ma<g ref="char:EOLhyphen"/>ny hundred bones one fitted to another with arteries and ſinews knitting them together, their proportionable agreement and uſe, the excellent workmanſhip that is in all your members, the boyling of your meat and drink in your ſtomack, together with the diſpoſing of part of it into neutrement, and part of it into excrement; as alſo the beau<g ref="char:EOLhyphen"/>ty, forme, and comlineſſe of your body, you muſt needs confeſſe, the working of theſe things to be wonderfull, and done by a wonderfull skilfull workman; and that is the very ſame whom we call God.</p>
+               <p>But to ſpeak a little more familiarly unto you, ſuppoſe that you ſhould arrive amongſt the Indians, and there finde but ſome ſilly Cottage in the deſolateſt place thereof, would you not thereupon conclude with your ſelf, ſurely this Land is inhabited, ſome man hath been here?</p>
+               <sp>
+                  <speaker>Christ.</speaker>
+                  <p>Yea indeed, Sir, for I could not think that it could make it ſelfe, neither could I think that it could be made by any
+<pb n="10" facs="tcp:169873:8"/> other creature then by man; and beſides, I ſhould therein ſee ſome tokens of mans wit, and therefore I muſt needs conclude that ſome man had been there.</p>
+               </sp>
+               <sp>
+                  <speaker>Ind.</speaker>
+                  <p>Now then conſider, I beſeech you, that there are in this world an hundred thouſand things which could not make themſelves, neither is it poſſible that they ſhould be made by man, for here are many things whtch are impoſſible for man to know, and therefore impoſſible for him to make. For you know that he that makes a Clock or a Watch, or any ſuch thing, muſt needs know all the wheeles and all other parts thereof perfectly<g ref="char:punc">▪</g> or elſe he could not make them; but many things there are in the world which no man knows, and therefore could never make them. Whereupon I beſeech you to conclude, That ſome wiſer workmaſter then any man hath made them; and that is the ſame whom we call God.</p>
+                  <p>Againe, ſuppoſe you ſhould come into ſome well ordered family or houſe, and ſee all things done according to a compleat or<g ref="char:EOLhyphen"/>der, though you did not ſee any man for the preſent that you did conceive were of yeere<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> and diſcretion to do it, yet would not you conclude that ſome wiſe Governour that caſt theſe things into this order had been there?</p>
+               </sp>
+               <sp>
+                  <pb n="11" facs="tcp:169873:8"/>
+                  <speaker>Chriſt.</speaker>
+                  <p>Yea indeed Sir, I muſt confeſſe I ſhould.</p>
+               </sp>
+               <sp>
+                  <speaker>Ind.</speaker>
+                  <p>Why then I beſeech you to conſider, that in this great houſe of the world there are a great multitude of men and beaſts, and other things exceeding wiſely ordered, yea ſo ordered, as all the wiſdome and power of man could never do it. As for example, If you do but conſider the excellent ſubordina<g ref="char:EOLhyphen"/>tion of the creatures, you ſhall ſee a won<g ref="char:EOLhyphen"/>derfull order; if you do but caſt your eyes downward, and behold the loweſt creature, in the earth, you ſhall perceive that when it is wet with the dew of heaven, it nouriſheth the graſſe, and the graſſe ſerveth to nouriſh the beaſts, and the beaſts they do nouriſh and feed man; whereby you may perceive the combination and connexion that is amongſt theſe creatures; and here you may ſee an or<g ref="char:EOLhyphen"/>der from one thing to another, and all to one end, all to ſerve man, and muſt you not then think and conclude, That man is to ſerve him who is the Author of this Order; and that is the very ſame whom wee call God.</p>
+                  <p>And if you doe but caſt your eyes upward, you ſhall perceive ſuch an heaven ſo beſet and furniſhed with Sunne, Moon, and Stars, as no man could make: And if you look in<g ref="char:EOLhyphen"/>to
+<pb n="12" facs="tcp:169873:9"/> the fabrick of the world, you ſhall in your apprehenſion behold one thing contrary to another, the water contrary to the fire, and dryneſſe contrary to moyſture; and the na<g ref="char:EOLhyphen"/>ture of contraries, is one to deſtroy another; and yet you may ſee theſe brought to ſuch a comely agreement, that they doe not in<g ref="char:EOLhyphen"/>trench or uſurpe one upon another, but match together in the compoſing of many things. The Earth you know is heavy and maſſie, and very huge in bigneſſe, and there is no ſolid thing to uphold it, nor piller to ſupport it, for it is founded upon the wa<g ref="char:EOLhyphen"/>ters; and yet notwithſtanding it is ſetled, or rather hung as a Ball in the Ayre, and ſtirreth not a whit. The Sea likewiſe doth continually threaten the Earth, and the na<g ref="char:EOLhyphen"/>ture thereof is to overflow the ſame, and yet we ſee it paſſeth not its bounds; now all theſe things conſidered, muſt it not needs follow that there is a great and ſoveraigne power which over-ruleth all theſe things, who ma<g ref="char:EOLhyphen"/>keth them thus to keepe their order; and who can that be, but onely the God of Or<g ref="char:EOLhyphen"/>der?</p>
+                  <p>Thus my loving friend, you ſee that the whole world, with all that is therein, is a plaine booke laid open to all men, yea even for Children to reade, and as it were to ſpell
+<pb n="13" facs="tcp:169873:9"/> God therein; the conſideration whereof cauſed one learned man<note place="margin">Avicen.</note> to ſay, that he who acknowledg<g ref="char:EOLhyphen"/>eth not a God-head, is void not onely of reaſon, but alſo of ſence; yea, and cauſed another learned man to<note place="margin">Dupleſ.</note> ſay, that all men ought to be for<g ref="char:EOLhyphen"/>bidden to call the being of a God into queſtion, upon paine of being men any more.</p>
+                  <p>Many other lively Characters of the God<g ref="char:EOLhyphen"/>head ſtamped upon the Creatures, might be held forth for the further confirmation there<g ref="char:EOLhyphen"/>of, but hoping that by this time you are convinced of this truth, I will proceed no further therein at this time.</p>
+               </sp>
+               <sp>
+                  <speaker>Chriſ.</speaker>
+                  <p>Indeed Sir I am ſo convinced, for I know not how to contradict what you have ſaid; and therefore I pray you proceed to the next point, namely to prove that the Scrip<g ref="char:EOLhyphen"/>tures are the word of God.</p>
+               </sp>
+            </div>
+            <div type="part">
+               <head>Touching the Scriptures, being the word of God.</head>
+               <sp>
+                  <speaker>Preſ.</speaker>
+                  <p>WEll Sir, in my judgement you have done exceeding well tou<g ref="char:EOLhyphen"/>ching this point; And I hope not onely done him good, but me alſo; for though I doe
+<pb n="14" facs="tcp:169873:10"/> beleeve that there is a God, yet I hope the hearing of theſe your arguments, will be a meanes to ſtrengthen this my beliefe, and confirme this concluſion, and adde more to this my aſſent. But now Sir to the intent that he may perceive that thoſe whom they call Independent Miniſters, and thoſe whom they call Presbyterian Miniſters, doe not differ but agree in theſe Fundamentals, let me crave leave to ſpeake to the next point,</p>
+               </sp>
+               <sp>
+                  <speaker>Inde.</speaker>
+                  <p>With a very good will Sir I beſeech you doe.</p>
+               </sp>
+               <sp>
+                  <speaker>Preſ.</speaker>
+                  <p>Well then my good friend, I would pray you and beſeech you, as you tender the everlaſting welfare of your ſoule, to be per<g ref="char:EOLhyphen"/>ſwaded in your heart, that thoſe Bookes which are called the Scriptures, are the only word of that one God which Mr. <hi>B.</hi> hath I hope throughly convinced you of; and that they are that onely writing whereby he hath ſhewed even from the beginning, after what manner hee will be worſhipped and ſerved.</p>
+                  <p n="1">1 And that I may with arguments alſo con<g ref="char:EOLhyphen"/>vince you of this truth<g ref="char:punc">▪</g> I doe in the firſt place beſeech you ſeriouſly to conſider, that theſe Bookes are more ancient then any Hiſtory in the world; I tell you truely that all Hiſto<g ref="char:EOLhyphen"/>rians have beene forced to confeſſe, that the writings of <hi>Moſes</hi> w<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>re before all other wri<g ref="char:EOLhyphen"/>tings;
+<pb n="15" facs="tcp:169873:10"/> and that the very lateſt of our old Teſtament writers, are of more antiquity then the ancienteſt Authors amongſt the Hea<g ref="char:EOLhyphen"/>then. Have you not read how <hi>Eupolimus,</hi> in his booke of the Kings of <hi>Iury,</hi> ſaith that <hi>Moſes</hi> taught Letters to the <hi>Iewes,</hi> the <hi>Iewes</hi> to the <hi>Venetians,</hi> and the <hi>Venetians</hi> to the <hi>Greeks;</hi> alſo <hi>Diodorus</hi> of <hi>Sicilia,</hi> ſaith that hee under<g ref="char:EOLhyphen"/>ſtood by the Egyptians, that <hi>Moſes</hi> was the firſt Law-giver of all; now the learned doe agree, that the antiquity of the Scripture doth ſhew and prove both the truneſſe and divineneſs of them.</p>
+                  <p n="2">2 And I would alſo in the ſecond place, intreat you ſeriouſly to conſider that the ma<g ref="char:EOLhyphen"/>jeſty and authority of the great God of hea<g ref="char:EOLhyphen"/>ven, doth wonderfully appeare in the man<g ref="char:EOLhyphen"/>ner of the delivery of his minde in theſe bookes, no proeme is there uſed, but <hi>thus ſaith the Lord,</hi> no reaſon is rendred, but <hi>I the Lord have ſpoken it:</hi> So that they doe require cre<g ref="char:EOLhyphen"/>dit to be given to the matter, onely becauſe the Lord hath ſpoken it; the duty of every man is therein required without reſpect of perſon, the King and Ruler is there told his duty aſwell as the Subject, judgements are there threatned againſt the Rich man, as well as againſt the Poore; there are duties pre<g ref="char:EOLhyphen"/>ſcribed to the inner man, as well as to the
+<pb n="16" facs="tcp:169873:11"/> out-ward man; they require obedience in heart, as well as obedience in life, they pre<g ref="char:EOLunhyphen"/>ſcribe lawes to the thoughts to which no man can pierce, they forbid luſting and co<g ref="char:EOLhyphen"/>veting, which no writing of man doth. Now who can preſcribe lawes to the heart and thoughts, but onely he who knowes the heart and thoughts, and that is God onely.</p>
+                  <p>And in the third place, I would alſo be<g ref="char:EOLhyphen"/>beſeech you ſeriouſly to conſider, that the matter contained in thoſe bookes which wee call the Scriptures, doth wholly tend to the exalting of God, and debacing of man, the power, wiſedome, juſtice and mercy of God, is abundantly ſet forth in theſe bookes, and ſo is mans vanity and weakneſſe, yea the greateſt ſinnes, and fouleſt faults of Gods own people are there left upon record; yea the penmen of theſe bookes, were ſo void of all carnall affections in their writings, that they neither ſpared themſelves, nor their deareſt and neareſt friends in their writings; an ex<g ref="char:EOLhyphen"/>ample whereof you may ſee in <hi>Moſes,</hi> Numb. 27. 13. 14. Deut. 32. 51. Exod. 6. 20. Num. 12. 1. And alſo in the Apoſtle <hi>Paul,</hi> 1 Tim. 1. 13. from whence we may truely frame this argument:</p>
+                  <p>That that Doctrine which tends to the ad<g ref="char:EOLhyphen"/>vancement of Gods glory, and the debacing
+<pb n="17" facs="tcp:169873:11"/> of man muſt needs be of God, for mans Do<g ref="char:EOLhyphen"/>ctrine doth alwayes tend to his owne glory, but the Doctrine contained in thoſe bookes which we call the Scripture, doe wholly tend to the glory of God, and the debacing of man, as you have heard; and therefore wee muſt needs conclude they are the word of God.</p>
+                  <p n="4">4 And in the fourth place I would be<g ref="char:EOLhyphen"/>ſeech you to conſider, that the Doctrine con<g ref="char:EOLhyphen"/>tained in thoſe bookes which wee call the Scriptures, are both above and oppoſite to the wiſedome and will of man, as he is by nature; ſo that it is not onely above the na<g ref="char:EOLhyphen"/>turall power of man to underſtand them, but alſo directly contrary to his will, to yeild obedience thereunto; there is neither pre<g ref="char:EOLhyphen"/>cept nor prohibition contained in theſe bookes that is agreeable to mans naturall diſpoſition, but directly contrary thereunto; there is no man that is acquainted with, and takes notice of the diſpoſition of his owne heart, but he findes by experience that na<g ref="char:EOLhyphen"/>turally he beares little love to the Scriptures, and that by the little delight he hath to read or meditate therein; nay doe we not ſee, that for the moſt part, thoſe young men and o<g ref="char:EOLhyphen"/>thers that have nothing in them but fleſh and blood, had rather read in any vaine booke,
+<pb n="18" facs="tcp:169873:12"/> then in the Bible; whence we may truely frame this argument, That that Doctrine which is directly contrary to the wiſedome and will of man, muſt needs be of God; for mans Doctrine is alwaies agreeable to the wiſedome and will of man; but the Doctrine conained in thoſe bookes which wee call the Scripture, is directly oppoſite and contrary to the wiſedome and will of man, and there<g ref="char:EOLhyphen"/>fore theſe bookes muſt needs be of God.</p>
+                  <p n="5">5 And in the fifth place I would beſeech you to conſider, that the Doctrine contained in theſe bookes which we call the Scriptures, is altogether heavenly, and ſavoureth no<g ref="char:EOLhyphen"/>thing of an earthly and worldy affection, but every where renounceth and condemneth the ſame; they doe wholly tend to the with<g ref="char:EOLhyphen"/>drawing of man from all earthly things, and to the leading of him to ſalvation in God; theſe Bookes doe point out unto man, where<g ref="char:EOLhyphen"/>in true and eternall bleſſedneſſe doth conſiſt, and how he may attaine unto it; there hee may ſee how man by ſinne became the ene<g ref="char:EOLhyphen"/>mie of God; and how he may be reconciled unto God, and ſaved eternally; there he may ſee the incomprehenſible love of God in Jeſus Chriſt towards man. Whence we may truely frame this argument, That that Doctrine which tendeth to the with-draw<g ref="char:EOLhyphen"/>ing
+<pb n="19" facs="tcp:169873:12"/> of man from all earthly things, and to the leading of him to ſalvation in God, muſt needs be of God; but the Doctrine contai<g ref="char:EOLhyphen"/>ned in thoſe bookes which we call the Scrip<g ref="char:EOLhyphen"/>tures, doe wholly tend to that end, and therefore they muſt needs be of God.</p>
+                  <p n="6">6 And in the Sixth place I would beſeech you to conſider, that the propheſies contai<g ref="char:EOLhyphen"/>ned in thoſe bookes which we call the Scrip<g ref="char:EOLhyphen"/>tures, are not general, doubtfull, and abſcure, as the Oracles of the heathen are, but par<g ref="char:EOLhyphen"/>ticular and plaine, ſuch as expreſſe the per<g ref="char:EOLhyphen"/>ſons and things by their names, as you may ſee, 1 <hi>King. 13. 2, 3. Iſa.</hi> 45. 1. I tell you tru<g ref="char:EOLhyphen"/>ly, if we do compare the propheſies contained in Scripture, with the fulfilling of, them we ſhall perceive that they cannot be attributed to any thing elſe ſaving the inſpiration of the moſt wiſe God, as may ſufficiently ap<g ref="char:EOLhyphen"/>peare by the comparing the propheſies of the old Teſtament touching Chriſt; the calling of the Gentiles, and rejection of the Jewes, with the accompliſhment of them in the new; beſides the foretelling of things to come ſo precizely, and manifeſtly, and ſo long before hand, and the fulfilling of them at the very inſtant of time fore-told, doth a<g ref="char:EOLhyphen"/>boundantly ſhew that theſe bookes are not of man but of God.</p>
+                  <p n="7">
+                     <pb n="20" facs="tcp:169873:13"/>7 And in the ſeventh place I would in<g ref="char:EOLhyphen"/>treat you to conſider, that there is in thoſe bookes which we call the Scriptures a moſt holy and heavenly conſent, and agreement of all the parts thereof together, though written in ſundry Ages, by ſundry men in ſundry places; by the which it is manifeſt that God guided all their hearts in writing of them.</p>
+                  <p n="8">8 And in the eighth and laſt place, I would intreate you to conſider, that theſe bookes which we call the Scriptures, have ever been hated and oppoſed by the Devil and all wicked men; they have had many and migh<g ref="char:EOLhyphen"/>ty enemies, and adverſaries, who have en<g ref="char:EOLhyphen"/>deavoured by all the meanes they could, ut<g ref="char:EOLhyphen"/>terly to extinguiſh them, yet could they ne<g ref="char:EOLhyphen"/>ver doe it; and though the raging floods of the Roman Tyrants, have overflowed theſe bookes, yet could they never drowne them, no nor yet deface them; they have been condemned to the fire, yet could they never be burnt, but have ever been preſerved by the wonderfull providence of God, in diſpight of the Devill and all wicked men, which muſt needs put all out of doubt, that theſe bookes are not from man, but from God.</p>
+               </sp>
+               <sp>
+                  <speaker>Inde.</speaker>
+                  <p>Indeed Mr. <hi>H.</hi> you have ſpoken to
+<pb n="21" facs="tcp:169873:13"/> this point according to mine own heart; and I hope he is convinced, that the Scriptures are the word of God; and I ſhall be glad to heare you ſpeake to the next point alſo.</p>
+               </sp>
+               <sp>
+                  <speaker>Preſ.</speaker>
+                  <p>O no Mr. <hi>B.</hi> if I ſpeake to one, I beſeech you, doe you ſpeake to another.</p>
+               </sp>
+            </div>
+            <div type="part">
+               <head>Touching the Deitie of the Sonne, and Holy Ghoſt.</head>
+               <sp>
+                  <speaker>Inde.</speaker>
+                  <p>Well then if it muſt be ſo, then I beſeech you my friend conſider that the Deitie of the Sonne and holy Ghoſt, is clear<g ref="char:EOLhyphen"/>ly and manifeſtly proved by the Teſtimony of holy Scripture; and firſt as touching the deitie of the Sonne, I would intreate you to conſider that there are in Scripture ma<g ref="char:EOLhyphen"/>ny ſuch things aſſcribed unto him, as can<g ref="char:EOLhyphen"/>not be properly aſcribed unto any but God onely; doe you not know that in <hi>Joh. 3. 31. Heb. 1. 3. Joh.</hi> 15. 16. &amp; 17. he is ſaid to be Omnipotent, and to have the ſame equall power with the Father; and how could hee be ſo, if he were not God? And doe you not know that in <hi>Mat. 9. 6. Mar.</hi> 2. 5, 7, 9. It is ſaid that he forgiveth ſinnes by his own proper power and authority? and who can doe that but God onely? And doe you not know that in <hi>Mat. 9. 4, 5. Mar.</hi> 2. 8. He is
+<pb n="22" facs="tcp:169873:14"/> ſaid to know the ſecrets of mans heart; and who can doe that but God onely? And doe you not know that in <hi>Col.</hi> 1. 16. he is ſaid to be the Creator of all things? and in <hi>Heb</hi> 1. 3. he is ſaid to be the upholder of all things; and who can doe that but God onely? and doe you not know that in <hi>Mat.</hi> 14. 25. he is ſaid to walke upon the waters; and can any doe that of himſelfe, but God onely.</p>
+                  <p>And ſo in very deed we finde all his acti<g ref="char:EOLhyphen"/>ons whilſt he lived here on earth, to make ſufficient proof, that he was God aſwell as man; for though we reade <hi>Luk.</hi> 2. 7. that he was borne of his mother, and wraped in ſwadling Clouts, as he was man; yet wee read <hi>Mat.</hi> 2. 11. That the Star doth manifeſt him, and the wiſemen doe worſhip him as he was God; And though wee read, <hi>Mat.</hi> 3. 16. that he was Baptized in <hi>Iordan</hi> as hee was man; yet the ſame verſe tells us, that the holy Ghoſt deſcends on him from heaven, as he was God. And though we read, <hi>Mat.</hi> 4. 1. that he was tempted of the Devill as he was man; yet we alſo read verſe 10. that he over<g ref="char:EOLhyphen"/>comes and expells the Devill as he was God. And though it be ſaid <hi>Ioh. 4. 6. Mat. 21. 18. Ioh.</hi> 19. 28. that hee was weary, hungrie, and thirſtie as he was man; yet is it alſo ſaid <hi>Mat. 11. 28. Ioh. 6. 35. Ioh.</hi> 7. 37. that he re<g ref="char:EOLhyphen"/>freſheth
+<pb n="23" facs="tcp:169873:14"/> the weary, is the bread of life for the hungry, and giveth drinke to the thirſtie as he is God; and though wee read, <hi>Luk.</hi> 8. 23. 24. That he ſleepes in the Ship, and his diſciples awake him as he is man; yet wee read in the ſame place, that hee rebuketh the winde, and the raging of the waters as he is God; And though we reade, <hi>Mat.</hi> 26. 37. that he was ſorrowfull and heavie, and wept, <hi>Ioh.</hi> 11. 35. as he was man; yet doe we alſo read, <hi>Ioh.</hi> 14. 1. 18. that he comfor<g ref="char:EOLhyphen"/>teth his ſorrowfull and heavie Diſciples as he was God; and though it be ſaid <hi>Mat.</hi> 27. that he cryed out, my God, my God, why haſt thou forſaken me? as he was man; yet it is alſo ſaid, <hi>Luke</hi> 23. 43. that hee comfor<g ref="char:EOLhyphen"/>teth the good Thief immediately after, ſay<g ref="char:EOLhyphen"/>ing, <hi>This day ſhalt thou be with me in Paradiſe,</hi> as he was God; and though we read, <hi>Mat.</hi> 27. 50. 60. that he dyed, and was laid in the Grave as he was man, yet doe we alſo read, <hi>Ioh. 10. 18. Luk.</hi> 24. 6. that he had power to raiſe, yea and did raiſe himſelfe to life again as he was God; though we reade <hi>Luk.</hi> 24. 15. 31. that he talkes, and walkes, and eates with hs Diſciples after his Reſurrection, as he was man; yet wee alſo read, <hi>Act.</hi> 1. 9. that hee aſcended up into Heaven, as he was God. And this I hope is ſufficient to con<g ref="char:EOLhyphen"/>vince
+<pb n="24" facs="tcp:169873:15"/> you of the God-head of the ſecond perſon in Trinity, called the Son.</p>
+                  <p>And that the third perſon in Trinity cal<g ref="char:EOLhyphen"/>led the holy Ghoſt is alſo God, is likewiſe evident and cleare from Scripture; and that firſt of all from the teſtimony of <hi>Moſes,</hi> Gen. 1. 2. where he ſheweth, that even before the Creation, the ſpirit of God was buſied in the preſerving of the confuſed lump of things, which doth ſufficiently demonſtrate that he is God. And how fully doth the Prophet <hi>Iſaiah</hi> confirme it, <hi>Chap.</hi> 48. verſe 16. ſaying, <hi>And now the Lord God and his Spi<g ref="char:EOLhyphen"/>rit hath ſent me.</hi> And when it ſaid in the 6. <hi>Chap.</hi> and third verſe of the ſame propheſie, that the Angell did acknowledge one God whom they worſhip to bee holy, and doe three times, one anſwering another, ſtile him ſo, ſurely they doe thereby ſhew the miſtery of the Trinity.</p>
+                  <p>And it is evident by their writings, that ancient Jewes before Chriſt did note this mi<g ref="char:EOLhyphen"/>ſtery of the Trinity, in their expoſition of the word <hi>Iehovah,</hi> adding moreover, that this miſtery was to be kept ſecret, untill the com<g ref="char:EOLhyphen"/>ming of the <hi>Meſſiah,</hi> who ſhould more clear<g ref="char:EOLhyphen"/>ly reveale it.</p>
+                  <p>And indeed not onely the Deitie of the Son, but alſo of the holy Ghoſt, is far more cleare<g ref="char:EOLhyphen"/>ly
+<pb n="25" facs="tcp:169873:15"/> manifeſted in the new Teſtament then in the Old, for the ſame perſon whom the Pro<g ref="char:EOLhyphen"/>phet <hi>Iſaiah,</hi> Chap. 6. 3. 5. calleth <hi>Iehovah.</hi> The Apoſtle <hi>Paul</hi> repeating the very ſame words, <hi>Act.</hi> 28. 25. ſaith it was the holy Ghoſt that ſpake them. And whereas all the Prophets in the Old Teſtament, doe ordi<g ref="char:EOLhyphen"/>narily ſay, Thus ſaith the Lord; the Apoſtles in the new Teſtament doe ordinarily ſay, <hi>Thus ſaith the holy Ghoſt,</hi> Act. 21. 11. <hi>and the holy Ghoſt ſaid,</hi> Act. 13. 12. And the holy Ghoſt teſtifieth, <hi>Act.</hi> 20. 21. and ſo in like manner, the author to the <hi>Hebrews,</hi> repeating that ſaying, <hi>Pſal. 95. 7. To day if ye will heare his voice,</hi> brings them in thus, <hi>Wherefore as the holy Ghoſt ſaith,</hi> Heb. 3. 7. And whereas the Lord tells <hi>Moſes Exod.</hi> 4. 11. That it is he a<g ref="char:EOLhyphen"/>lone which giveth to man a mouth, and wiſe<g ref="char:EOLhyphen"/>dome to ſpeake; the Apoſtle <hi>Paul</hi> tells us, 1 <hi>Cor.</hi> 12. 10. that it is the Spirit which gi<g ref="char:EOLhyphen"/>veth it to man.</p>
+                  <p>And ſo in the new Teſtament wee finde, that as unto the ſecond perſon, ſo unto the third, are aſcribed the very ſame name, ar<g ref="char:EOLhyphen"/>tributes and workes, which properly belong unto God; as for inſtance, if you looke into 1 <hi>Cor.</hi> 3. 16, 17. you ſhall finde that the A<g ref="char:EOLhyphen"/>poſtle doth give unto the Spirit of God, the very name of God, telling the beleeving Co<g ref="char:EOLhyphen"/>rinthians,
+<pb n="26" facs="tcp:169873:16"/> that they are the <hi>Temple of God,</hi> be<g ref="char:EOLhyphen"/>cauſe the holy Ghoſt dwelleth in them; and if you looke into 2 <hi>Cor.</hi> 6. 16, 17, 18. you ſhall finde that the Apoſtle calls the holy Ghoſt the Lord almighty; and if you looke into <hi>Act.</hi> 5. 3. you ſhall finde that the Apoſtle <hi>Peter</hi> telleth <hi>Annanias,</hi> that he had lyed unto the holy Ghoſt, and that he might give him to underſtand, that the holy Ghoſt is God, he telleth him verſe. 5. that hee had lyed unto God; and if you look into <hi>Act.</hi> 10. you ſhall finde that in one place it is ſaid, that <hi>Corneli<g ref="char:EOLhyphen"/>us</hi> was warned of God to ſend for <hi>Peter;</hi> and in another place you ſhall finde, that the holy Ghoſt himſelfe telleth <hi>Peter</hi> that hee had ſent him; and if you looke into 1 <hi>Cor.</hi> 2. 10. you ſhall finde the Apoſtle telling you, that the Spirit ſcarcheth all things, even the ſecret or deepe things of God. Now if to ſearch the heart of man, and to know the ſe<g ref="char:EOLhyphen"/>crets thereof, be proper to God onely, as you may ſee it is <hi>Ier.</hi> 17. 10. much more to know the ſecrets of God, is proper to God onely; and if you looke into <hi>Heb.</hi> 9. 14. you ſhall finde that eternity is attributed unto the holy Ghoſt, in that the Apoſtle in expreſſe termes calleth him the eternall Spirit; and if you looke into 1 <hi>Cor.</hi> 12. 9, 10. you ſhall finde that the power which the Apoſtles had to
+<pb n="27" facs="tcp:169873:16"/> worke miracles and wonders, was from the holy Ghoſt; now it is proper to God onely, to worke miracles and wonders, and there<g ref="char:EOLhyphen"/>fore the holy Ghoſt muſt needs be God. To conclude, if you looke into 1 <hi>Pet.</hi> 5. 10. you ſhall finde that God is ſtiled the God of all Graces; and if you looke into <hi>Ephe.</hi> 5. 9. and into <hi>Gal.</hi> 5. 22. you ſhal finde that all graces in the faithful are the fruits of the ſpirit of God, whereby it is evident, that the ſpirit of God is God; &amp; thus you ſee it is evident by ſcripture, that both the Sun and holy Ghoſt are God equall with the Father, and that there are three perſons in one Divince Eſſence.</p>
+               </sp>
+               <sp>
+                  <speaker>Chriſt.</speaker>
+                  <p>I know Sir, that you Miniſters doe ſpeake and write much of the miſtery of the Trinity, and that there are three perſons, and yet but one God, and that none of the three perſons are greater or leſſer then the other, nor none before or after other, but for my part I cannot conceive how it can be, and therefore cannot believe it.</p>
+               </sp>
+               <sp>
+                  <speaker>Inde.</speaker>
+                  <p>But you ought to believe it, becauſe the Scripture doth ſo fully prove it, though you cannot conceive how it can be; nevertheleſs for the helping of you to conceive how it can be, I pray you conſider that it is mani<g ref="char:EOLhyphen"/>feſt by Gods effects and doings, that there is in him a working nature or power, and in
+<pb n="28" facs="tcp:169873:17"/> every of his workes, there is a ſingular cun<g ref="char:EOLhyphen"/>ning and a wonderfull order; whence it is evident that there is in God, a ſoveraigne un<g ref="char:EOLhyphen"/>derſtanding; and there is nothing in God, that is not his very eſſence or being, where<g ref="char:EOLhyphen"/>upon it followeth that God, not onely hath underſtanding, but that his underſtanding is his very eſſence, that is, he is very underſtan<g ref="char:EOLhyphen"/>ding it ſelfe, and that from everlaſting; and God is a meare doing, and therefore this his underſtanding muſt needs bee everlaſtingly doing; and what can it meet withall from everlaſting, to be exerciſed upon but it ſelfe, therefore of neceſſity this underſtanding of God, muſt needs yeeld a reflection back again to it ſelfe, and ſo conceive and beget in it ſelfe, a perfect image of its owne ſelfe; which indeed is the very ſame thing, which in the Trinity we call the Son, or the word namely, the lively and perfect image and wiſedome of the Father; and in regard that this un<g ref="char:EOLhyphen"/>derſtanding in God is everlaſtingly doing, this ſecond perſon muſt needs be everlaſting; and in regard that the being of the Father, and his underſtanding are both one, and his very eſſence, therefore the being of the ſe<g ref="char:EOLhyphen"/>cong perſon, who is begotton by the Fathers underſtanding, or minding of himſelf, muſt needs be the ſame; whereupon we may con<g ref="char:EOLhyphen"/>clude,
+<pb n="29" facs="tcp:169873:17"/> that look what the Father is, the ſame is the Son, only they differ in the way of relation</p>
+                  <p>Againe in the ſecond place, I pray you conſider, that in God there is not onely an underſtanding, but alſo a will; and this will ſo farre as we be able to diſcerne it by the effects, is a certaine abilitie, whereby he ap<g ref="char:EOLhyphen"/>plyeth his workfull power; and this will is his very eſſence, as well as his underſtanding, &amp; is ſtill a doing, as well as his underſtanding from all eternity; and therefore as his un<g ref="char:EOLhyphen"/>derſtanding by a certaine reflection of it ſelfe upon it ſelfe, hath begotten us a ſecond per<g ref="char:EOLhyphen"/>ſon, whom we call the Son; ſo this will which worketh everlaſtingly, having none o<g ref="char:EOLhyphen"/>ther thing to worke upon but it ſelfe, doth alſo by his working ſtricke backe upon it ſelfe, and delighteth it ſelfe in that infinite good which it knoweth there, and ſo ſhed<g ref="char:EOLhyphen"/>deth out it ſelfe wholly to the loving there<g ref="char:EOLhyphen"/>of; and by this action it bringeth us forth a third perſon, whom we call the Spirit or ho<g ref="char:EOLhyphen"/>ly Ghoſt: That is to ſay, the mutuall kind<g ref="char:EOLhyphen"/>neſſe, and lovingneſſe of the Father towards the Son, and of the Son towards the Fa<g ref="char:EOLhyphen"/>ther, of the Father the underſtander, to<g ref="char:EOLhyphen"/>wards the Son conceived and begotten, by his underſtanding; and of the Son backe a<g ref="char:EOLhyphen"/>gaine towards the Father, acknowledging
+<pb n="30" facs="tcp:169873:18"/> all that he hath, and all that hee is to be of the Father; now becauſe there alwaies goes ſome act of the underſtanding before the act of the will, therefore wee ſay the third perſon is not onely from the will, but alſo from the underſtanding; and becauſe he is from two, and that by act of will, and un<g ref="char:EOLhyphen"/>derſtanding, therefore wee terme him pro<g ref="char:EOLhyphen"/>ceeding and not begotten; and becauſe the third perſon proceedeth of Gods will and underſtanding, and Gods will and under<g ref="char:EOLhyphen"/>ſtanding is his eſſence, and of his eſſence can nothing proceed which is not his eſſence, it muſt needs follow, that the third perſon is not onely coeternal, and coequall, but alſo coeſſentially; for as to be, and to under<g ref="char:EOLhyphen"/>ſtand are all one in God, ſo to will and to underſtand are all one in him; and ſo all three come into one eſſence; ſo that as we have God of God, that is to ſay the Son of the Father, by the everlaſting in working of the underſtanding; ſo have we alſo God of God again, that is to ſay, the ho<g ref="char:EOLhyphen"/>ly Ghoſt, or love of them both, by the joynt working of the underſtanding and will to<g ref="char:EOLhyphen"/>gether; whereupon we conclude three di<g ref="char:EOLhyphen"/>ſtinck perſons, or in beings in one eſſence; and though we ſay, ſpeaking after the man<g ref="char:EOLhyphen"/>ner of men, that the act of the underſtan<g ref="char:EOLhyphen"/>ding goeth before the act of the will; yet
+<pb n="31" facs="tcp:169873:18"/> are we not to imagine any going before, or comming after in theſe perſons, but onely to lay forth theſe things according to the order of nature. And now by this time, I hope you do perceive the evident foot-ſtepts of three in beings, or perſons in one eſſence.</p>
+               </sp>
+               <sp>
+                  <speaker>Chriſ.</speaker>
+                  <p>But Sir, the thing which I muſt deſire to heare, is ſome reſemblance of theſe things in the Creatures.</p>
+               </sp>
+               <sp>
+                  <speaker>Indep.</speaker>
+                  <p>If you would have reſemblance of theſe things in the Creatures, then I pray you conſider, that the Sun begetteth his one beames, which the Poets doe call the Sun of the Sun; and from them two pro<g ref="char:EOLhyphen"/>ceedeth light, which imparteth it ſelfe to all things here beneath; and yet is not the one of them before the other; for neither is the Sun before his beames, or the Sun or his beames before the light, otherwiſe then in conſideration of order and relation, in that the beames are begotten, and the light is proceeding, which is an apparent image of what I have ſaid. Likewiſe in waters, we have the head of them in the Earth, and the Spring boyling out of it, and the ſtreame which is made of them both, and ſheddeth it ſelfe far from thence; yet it is but one ſelfe ſame continuall and unſeparable eſ<g ref="char:EOLhyphen"/>ſence, which hath neither foreneſſe nor
+<pb n="32" facs="tcp:169873:19"/> afterneſſe in regard of time, but onely in regard of order, and our conſiderations of it; for the well head is not a head, but in reſpect of the Spring; nor the Spring a Spring, but in reſpect of the well head; nor the Stream a Stream, but in reſpect of them both; and ſo all three be but one water, and cannot almoſt be conſidered without one another; which is alſo an expreſſe marke of the originall relations, and perſons co<g ref="char:EOLhyphen"/>eſſentiall in the onely one eſſence of God; other reſemblances hereof might be ſhew<g ref="char:EOLhyphen"/>ed; but I hope by this time, you doe behold this miſtery more clearly; and therefore thus much ſhall ſuffice to have been ſpoken touching this point.</p>
+               </sp>
+            </div>
+            <div type="part">
+               <head>Touching the Immortality of the Soule.</head>
+               <sp>
+                  <speaker>Preſ.</speaker>
+                  <p>SIr, you have in my judgement ſpo<g ref="char:EOLhyphen"/>ken to this point moſt briefly, and plainly; and yet fully I hope for his con<g ref="char:EOLhyphen"/>viction; And now it falling to my lot to ſpeake to the next point, I ſay unto you my deare friend, that as touching the immor<g ref="char:EOLhyphen"/>tality of the ſoul, I hope you will now give credit to the Scripture; And therefore I
+<pb n="33" facs="tcp:169873:19"/> would intreat you ſeriouſly to conſider, that this truth is confirmed <hi>Eccle.</hi> 12. 7. where the wiſe man telleth us, that at death the dody returnes to the duſt, and the ſpirit to God that gave it; and therefore aſſuredly the ſoul dyeth not with the body, but is im<g ref="char:EOLhyphen"/>mortall. And in <hi>Act.</hi> 7. 59. it is ſaid that when the martyr <hi>Stephen</hi> was at the point of death, he cryed out <hi>Lord Jeſus receive my Spirit,</hi> meaning thereby none other thing, but when that his ſoul ſhould depart out of his body, Chriſt Jeſus ſhoul be the per<g ref="char:EOLhyphen"/>petuall keeper of it; and therefore aſſured<g ref="char:EOLhyphen"/>ly it dyed not with the body, but is immor<g ref="char:EOLhyphen"/>tall. And in <hi>Luk.</hi> 23. 43. it is recorded, that when our Saviour hung upon the Croſs, he ſaid unto the good Thief, <hi>This day ſhalt thou be with me in Paradiſe;</hi> whence I pray you take notice, that he could not be there with him in the body, for that was imme<g ref="char:EOLhyphen"/>diately dead and buried; therefore the meaning muſt needs be, that his ſoul was gathered with the ſoul of Chriſt into Para<g ref="char:EOLhyphen"/>diſe, and ſo conſequently it dyed not with the body. And in <hi>Phil.</hi> 1. 23. the Apoſtle ſaid, that he <hi>deſired to bee dſſolved, and to be with Chriſt;</hi> by the which it is evident that he was aſſured, that ſo ſoone as his ſpirit did take leave of his body, he ſhould be hap<g ref="char:EOLhyphen"/>pie
+<pb n="34" facs="tcp:169873:20"/> in the enjoyment of the Lord Jeſus Chriſt. And doth not the ſame Apoſtle plainly witneſſe the ſame truth, 2 <hi>Cor.</hi> 5. 8. in ſaying when the ſoules of beleevers are <hi>abſent from the body, they are preſent with the Lord?</hi> And doth not the Apoſtle <hi>Peter</hi> like<g ref="char:EOLhyphen"/>wiſe ſeale to the ſame truth, 2 <hi>Pet.</hi> 1. 14. In giving us to underſtand, that there was ſome thing in his bodily tabernacle which muſt not be put off, which could be none other thing but his ſoul; and we may aſſure our ſelves, that if the ſoul did dye with the bo<g ref="char:EOLhyphen"/>dy, our Saviour would never have brought in the ſoul of <hi>Lazarus joying in</hi> Abrahams <hi>boſom</hi> after his death, nor yet the ſoul of the Rich man in Hell torments, <hi>Luk.</hi> 16. 23. Many other teſtimonies of holy Scripture might be bought for the further confirma<g ref="char:EOLhyphen"/>tion of this truth, but I hope theſe are ſuf<g ref="char:EOLhyphen"/>ficient.</p>
+               </sp>
+               <sp>
+                  <speaker>Chriſ.</speaker>
+                  <p>But Sir, becauſe I could never yet ſee either in my ſelfe, or in any other man, any thing but a body; I could never con<g ref="char:EOLhyphen"/>ceive what a thing the ſoul ſhould be, nor how it differeth from the body; and indeed this hath made me of late to bee of their judgements, who hold that the ſoul and body are both one, and that the ſoul dyeth with the body.</p>
+               </sp>
+               <sp>
+                  <pb n="35" facs="tcp:169873:20"/>
+                  <speaker>Preſ.</speaker>
+                  <p>Well, to the intent that I may clear theſe things unto you, I pray you firſt of all to conſider, that <hi>Moſes</hi> telleth us <hi>Gen.</hi> 2. 7. That after the Lord had <hi>formed mans body of the duſt of the earth, he breathed into his noſtrils the brtath of life,</hi> whereby you may perceive that the ſoul is of a ſpirituall nature, and an uncorruptible ſubſtance, and not a body. In the creation of the ſoul, ſaith a learned Author, <hi>The almighty</hi>
+                     <note place="margin">Author of the <hi>French</hi> Acad.</note> 
+                     <hi>made a blaſt, not of his owne nature, nor of his Creature the Aire, but even of nothing, and ſo new in the ordinary gener<g ref="char:EOLhyphen"/>ation of man, the ſoul is placed in the body, not by vertue of nature, it is not begotten or produced by nature, but properly and peculiarly by the ſpecial working of God;</hi> ſo that although the ſoul li<g ref="char:EOLhyphen"/>veth and dwelleth in the body, ſuſtaining and moving it; yet it is a certaine ſubſtance ſeverall from the body; and though the bo<g ref="char:EOLhyphen"/>dy hath no life in it ſelfe, and therefore cannot ſubſiſt without the ſoule, yet can the ſoul ſubſiſt and live, and preſerve it ſelfe in its ſubſtance, after that it is ſeparated from the body; the ſoule is therefore ſo far from dying, and corrupting with the body, that it keepeth it alive and uncorrupt whilſt it is in the body, and doth live, move and un<g ref="char:EOLhyphen"/>derſtand, after that it is out of the body, and
+<pb n="36" facs="tcp:169873:21"/> though you ſee nothing but the body, yet by the doing of the ſoul, you may perceive there is a ſoul, and what the ſoul is; for the ſoul being of a ſpirituall nature, as afore<g ref="char:EOLhyphen"/>ſaid, and not a bodily, we cannot ſee it in its own ſubſtance or nature, nor have any knowledge thereof, but by the teſtimony of the word, and by the effects thereof.</p>
+               </sp>
+               <sp>
+                  <speaker>Chriſ.</speaker>
+                  <p>Well then Sir, as you have beene pleaſed to give me ſome light and know<g ref="char:EOLhyphen"/>ledge of the ſoul, by the teſtimony of the Word; ſo I beſeech you doe your endea<g ref="char:EOLhyphen"/>vour, to add ſomewhat more to my know<g ref="char:EOLhyphen"/>ledge, by ſhewing unto me what be the ef<g ref="char:EOLhyphen"/>fects of the ſoul.</p>
+               </sp>
+               <sp>
+                  <speaker>Preſ.</speaker>
+                  <p>Well friend, ſeeing you doe de<g ref="char:EOLhyphen"/>ſire it, I ſhall by the Lords aſſiſtance endea<g ref="char:EOLhyphen"/>vour to let you ſee this truth more clearly, by naturall reaſons drawne from the effects of the ſoul; for the truth is, naturall rea<g ref="char:EOLhyphen"/>ſons are as beames of the light of Gods Word, and helps that may greatly further us in the underſtanding of the ſoules im<g ref="char:EOLhyphen"/>mortality.</p>
+                  <p>1. And therefore in the firſt place, I be<g ref="char:EOLhyphen"/>ſeech you take notice, that if you doe con<g ref="char:EOLhyphen"/>ſider of that eternity which was before the creation of the world, your thought is not able to comprehend it; but if you doe enter
+<pb n="37" facs="tcp:169873:21"/> into conſideration of times, which ſhall ſtill follow after us unto all eternity, you ſhall finde your ſelfe better able to comprehend that, and have a more cleare in-ſight into it, which ſhews that although your ſoul is not eternall in regard of beginning; yet is it eternall and immortall in regard of end, and was created to live an eternall life.</p>
+                  <p>Secondly, I pray you conſider, that in as much as mans ſoul was not created with his body, as the ſoules of beaſt were, and that it is not now begotten by way of ordinary generation, as the ſoules of all living Crea<g ref="char:EOLhyphen"/>tures are, we are thereby taught, that God did not intend, that any thing in nature ſhould extinguiſh mans ſoule, nor de<g ref="char:EOLhyphen"/>ſtroy it; for if hee had ſo intended, then would he have created, and have ordered it to have come into men by way of ordina<g ref="char:EOLhyphen"/>ry generation, as he hath done touching all other living Creatures that are mortall; and therefore wee may hence undoubtly con<g ref="char:EOLhyphen"/>clude, that mans ſoul is immortal.</p>
+                  <p>Thirdly, I beſeech you ſeriouſly to con<g ref="char:EOLhyphen"/>ſider, that the ſoules of beaſts doe onely de<g ref="char:EOLhyphen"/>ſire things preſent; and their deſire of ſome preſent good, proceedeth not from any knowing vertue that is in them, but onely from a ſenſible vertue; for though beaſts have
+<pb n="38" facs="tcp:169873:22"/> a ſoule whereby they live and move, yet is not their ſoul partaker of underſtanding; but man naturally hath knowledge of an eternity, yea and a diſpoſition to beleeve it, and to conceive it to be a good and profitable thing for him, and thereupon doth he de<g ref="char:EOLhyphen"/>ſire it, as it is evident by that man naturally hath to live, (if it were poſſible) alwaies; There is not ſaith a learned Author, ſo baſe a minde to be<note place="margin">Dupleſ. tru<g ref="char:EOLhyphen"/>neſs Chriſt. Religion.</note> found, which coveteth not to live for ever; and becauſe they ſee by the daily examples of mortality, that they themſelves muſt dye, therefore they do endevour to make their names eternall as much as may be, as doth evidently appeare by their care of, and love to, their iſſue and poſterity; and by their endeavouring to do ſome extraordinary act, in their life time, worthy of eternall fame; and by their Tombs and Sepulchers which they build, to make their names as eternall as they can; and to what end ſhould man deſire this, if there were not a poſſibility of attaining it? nay we may aſſure our ſelves, that God would not have implanted this naturall de<g ref="char:EOLhyphen"/>ſire in man, but that there is ſuch a thing at<g ref="char:EOLhyphen"/>tainable by man; for if he had plainted in man a deſire of a thing unattainable, he had
+<pb n="39" facs="tcp:169873:22"/> dealt worſe with man then he hath done with beaſts, who neither know nor believe, nor deſire any ſuch thing; from whence we may alſo conclude, that our ſoules being created immortall, they doe well conceive of an immortality, or an everlaſtingneſſe with<g ref="char:EOLhyphen"/>out end.</p>
+                  <p>Fourthly, I would beſeech you ſeriouſly to conſider, that the brute beaſts do feare a pre<g ref="char:EOLhyphen"/>ſent evill of puniſhment, in this life only, but man naturally doth fear the evill of puniſh<g ref="char:EOLhyphen"/>ment, after the end of his life; for there is a natural impreſſion ſtamped in man, that vice muſt be puniſhed after death, as it is evident in that there was never any nation ſo barba<g ref="char:EOLhyphen"/>rous, but they were obſerved naturally to put a difference betwixt vertue &amp; vice, ſo far forth as they knew it; and ſo to have joy and con<g ref="char:EOLhyphen"/>tent when they practiſed vertue, and to have feare and ſorrow when they practiſed vice; and that neither for hope of reward, nor feare of puniſhment in this life; And I dare boldly ſay, that if a Man who hath com<g ref="char:EOLhyphen"/>mitted ſome groſs ſin, ſhould be by reaſon of the ſecrecy in the committing of it, be confident that it ſhould never be ſo much as known to any one man, woman or childe, in the time of this life, yet could he not be without feare, whenſoever he thought upon it. And what though ſome Epicures a<g ref="char:EOLhyphen"/>mong
+<pb n="40" facs="tcp:169873:23"/> us, are for the preſent ſo ſwallowed up in the pleaſures of this life, that they have no thought of being called to an account for their ſinnes, either in this life, or at the end of this life; yet when did you ever hear of any ſuch man, that hath not at the houre of death beene afraid of the judgement to come? for mine own part, I am confident that there was never any man, that when he apprehended death neare approcahing, could then perſwade his Conſcience that his Soul was mortall, and ſhould dye with his body, but then (though it may be too late) hee begins to think within himſelfe what ſhall become of his ſoul; and could then with all his heart, wiſh that he had li<g ref="char:EOLhyphen"/>ved the life of the righteous; and why is all this? but becauſe man naturally doth be<g ref="char:EOLhyphen"/>leeve that his ſoul is immortall, and ſhall come to judgement.</p>
+                  <p>Fifthly, I would alſo beſeech you ſeri<g ref="char:EOLhyphen"/>ouſly to conſider, that although mans body, I meane his ſenſuall appeitite, can with the ſenſual appetite of beaſts, find reſt and con<g ref="char:EOLhyphen"/>tent inearthly things here below, yet is his ſoule in a perpetuall motion, and can finde no reſt nor content in any earthly thing; and that becauſe it hath a ſecret longing deſire after God, though it know
+<pb n="41" facs="tcp:169873:23"/> it not; for as a childe that is new borne, doth by a naturall inſtinct, in ſtrength of deſire crye after the dugg, and yet knoweth not what it wanteth, even ſo mans poore ſoul doth deſire God; and yet through the blindneſſe of his underſtanding, it know<g ref="char:EOLhyphen"/>eth not what it wanteth; and like as if an ignorant nurſe ſhould offer the childe ſuch food as its tender age is not capable of re<g ref="char:EOLhyphen"/>ceiving, it would not be contented, but would ſtill in ſtrength of deſire, crye after the dugg; even ſo though a man ſhould offer his ſoul a world of Creatures, yet will they not content it; for I dare boldly ſay, that no earthly-minded man ever met with ſo much profits, pleaſures, or honours in this world, as did fully content and ſatisfie him; indeed mans ſenſuall appetite may feed up<g ref="char:EOLhyphen"/>on earthly delights, and be as it were filled with the creature; but what can fill mans minde? not all the world; for tis certain ſaith a learned and godly<note place="margin">Mr. <hi>Boulton</hi> diſcourſe true hap.</note> Author, though one man were not onely crowned with the ſo<g ref="char:EOLhyphen"/>verainty of all the Kingdoms of the earth, but beſides were made commander of the motions of the Sun, and the glory of the Stars; yet the reſtleſſe eye of mans unſatisfi<g ref="char:EOLhyphen"/>ed underſtanding, would peepe and pry be<g ref="char:EOLhyphen"/>yond
+<pb n="42" facs="tcp:169873:24"/> the heavens, for ſome hidden excellen<g ref="char:EOLhyphen"/>cy, and ſuppoſed felicity, which the whole compaſſe of this created World cannot yield; ſo unquenchable is the thirſt of mans ſoul, untill it bath it ſelfe in the River of life, and the immeaſurable Ocean of good<g ref="char:EOLhyphen"/>neſſe (<hi>viz</hi>) untill it lives in him, and of him, in whom all things doe live, and by whom all things are upheld. Now then as in naturall things, we may know by their motion where is their reſting place; even ſo by the motion of mans ſoul toward God, we may certainly conclude that God is the reſting place thereof, which indeed is a ſure teſtimony, that mans ſoul is an immortall eſſence, and ſo ſhall never dye.</p>
+                  <p>Sixthly and laſtly, I would pray you to conſider, that although mans body may de<g ref="char:EOLhyphen"/>cay, dye, and periſh if it want corporall food, yet will not his ſoul; for what can make the ſoul decay, dye, and periſh? can want of corporall food? No, for it can skil to feed upon things above the world; for the minde of man is ſo nimble, that e<g ref="char:EOLhyphen"/>ven by way of view, it feedeth upon all things; take from it ſenſible things, and the things of the underſtanning remaine with it ſtil, bereave it of al earthly things, and the heavenly remaine abundantly, and then it
+<pb n="43" facs="tcp:169873:24"/> feedeth at greateſt eaſe, and makes beſt cheare agreeable to its owne nature; th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> plaine truth is, the ſoul lives beſt when it is moſt freeſt from all things in this world; it is well known that thoſe who want their eye-ſight, have their mindes moſt apt to underſtand, and moſt firme to remember, becauſe their eyes are not buſied about the beholding of outward objects, and when we ſhut our eyes, then are we beſt able to conceive of things ſpirituall in our minds; yea, and if we conſider the matter well, we ſhall finde that when our ſences are moſt quenched, then doth our ſoule moſt labour to ſurmount her ſelfe; and the more the body decreaſeth, the more doth the ſoul increaſe, as it is commonly ſeene when a man draweth nigh unto death, the ſoul hath then the moſt care of her owne eternall welfare, in ſo much as it hath been obſerved, that when a body hath been very far ſpent, bare, conſumed and withered, ſo that whoſoever looks upon it ſees nothing but earth, yet ſuch a man hath been heard ſpeake moſt ſpiritually and heavenly. Now when a man doth behold ſuch a lively ſoul, in ſo weak and withered a body; may hee not ſay as it is ſaid of hatching of Chickens, the ſhell is broken, but there commeth forth
+<pb n="44" facs="tcp:169873:25"/> a Chicken? &amp; may he not hence conclude, that for the ſoul to continue in its being, it hath no need of the body? nay may he not hence conclude more then this, namely for the ſoul to worke and doe well, it ought either to be without the body, or elſe to be utter<g ref="char:EOLhyphen"/>ly unſubject to the body? and that the full and perfect life of the ſoul, is the full and utter with-drawing thereof from the body, and whatſoever the body is made of; for though the ſoul be the forme of the body, yet it being no materiall forme, the more it is diſcharged of the matter, the more it retaines its own peculiar form. To conclude then, ſeeing that the nature, the nouriſh<g ref="char:EOLhyphen"/>ment, and the actions of our ſoules are ſo far different from the nature, nouriſhment, and actions of our bodyes, and from all that is done, or wrought by our bodies; can there be any thing more childiſh, then to imagine our ſoules to bee mortall, be<g ref="char:EOLhyphen"/>cauſe of the mortality of our bodies? And now my good friend, I hope by this time, your ſoul hath ſo beheld her ſelfe, in the glaſs of her own marvelous actions, that ſhe will henceforth conclude her ſelfe to bee immortall.</p>
+               </sp>
+            </div>
+            <div type="part">
+               <pb n="45" facs="tcp:169873:25"/>
+               <head>Touching the Reſurrection of the body.</head>
+               <sp>
+                  <speaker>Chriſt.</speaker>
+                  <p>WEll Sir, I doe acknowledge that you have very ſufficiently proved the immortality of the ſoul; and now if Mr. <hi>B.</hi> will be pleaſed to prove the Reſurrection of the body, then wee ſhall have done.</p>
+               </sp>
+               <sp>
+                  <speaker>Inde.</speaker>
+                  <p>Surely friend, the Scripture is ex<g ref="char:EOLhyphen"/>ceeding full and cleare for this point; and therefore I pray you firſt of all conſider, that <hi>Job</hi> ſaith in plaine termes, Job. 19. 25. <hi>I know my redeemer liveth, and that hee ſhall ſtand at the latter day upon the earth: and though after my skin wormes deſtroy my body, yet in my fleſh I ſhall ſee God.</hi> Now doth not this Scrip<g ref="char:EOLhyphen"/>ture plainly hold forth, under us the cer<g ref="char:EOLhyphen"/>tainty of the Reſurrection of the body, in that this holy man doth profeſſe, he doth beleeve that he ſhall ſee God with theſe ve<g ref="char:EOLhyphen"/>ry eyes, at that day; And I would alſo in<g ref="char:EOLhyphen"/>treat you to conſider, that the prophet <hi>Iſai.</hi> ſaith, Chapter 26, 19. <hi>Thy dead men ſhall live</hi> &amp;c. In which words, the prophet ſpeakes of the Reſurrection of the Saints, giving us to underſtand that all thoſe Saints who dye, and whoſe bodies are layd in the duſt, all thoſe ſhall certainly riſe againe to life;
+<pb n="46" facs="tcp:169873:26"/> And I would alſo beſeech you to conſider that in <hi>Ezek.</hi> 37. the Prophet ſpeakes moſt excellency of the Reſurrection of the dead, in ſhewing that a ſpirit of life and power, ſhall come upon the dry bones and duſt of the Saints, and that they ſhall live in the preſence of God; And I would alſo intreat you ſeriouſly to conſider, that the prophet <hi>Daniel</hi> telleth us, that many who ſleep in the duſt ſhall awake, <hi>Some to everlaſting life, and ſome to everlaſting ſhame and contempt:</hi> And ſurly our Saviour doth confirme the ſame, by uttering almoſt the ſame words, <hi>Joh.</hi> 5. 28. 29. ſaying, <hi>They that are in the Graves ſhall here the voyce of the Son of man, and ſhall come forth; they that have done good to the re<g ref="char:EOLhyphen"/>ſurrection of life, and they that have done evill, to the reſurrection of condemnation.</hi> And con<g ref="char:EOLhyphen"/>ſider I beſeech you, that Jeſus Chriſt him<g ref="char:EOLhyphen"/>ſelfe is riſen from the dead, and doubtleſſe he did not riſe as a private perſon; he did not riſe privately for himſelfe, but as a pub<g ref="char:EOLhyphen"/>like perſon, repreſenting all the faithfull; and hence it is that the Apohle ſaith, 1 <hi>Cor. 15. 13. If there be no reſurrecteon of the dead, then is Chriſt not riſen.</hi> And againe in the ſame Chapter, verſe 19. he concluds, that if there be no reſurrection of the dead, then the faithfull are of all men moſt miſerable.
+<pb n="47" facs="tcp:169873:26"/> But ſaith the ſame Apoſtle to the comfort of the <hi>Theſſalonians,</hi> who ſeemed to make ſome queſtion of the Reſurrection, if we be<g ref="char:EOLhyphen"/>leeve that Jeſus Chriſt dyed and roſe againe, even ſo them alſo that<note place="margin">1 Theſ. 4. 29.</note> ſleep in Jeſus Chriſt will he bring with him. And I beſeech you alſo to con<g ref="char:EOLhyphen"/>ſider, that it is ſaid Revel. 20. 21, 15. <hi>And I ſaw the dead both great and ſmall ſtand be<g ref="char:EOLhyphen"/>fore God, and the Sea gave up her dead which were in her, and death and hell delivered up the dead.</hi> To conclude, I would pray you to minde the Argument which our Saviour uſeth to prove the Reſurrection of the dead Mat 22. 32. in ſaying, <hi>God is the God of</hi> Abraham, Iſaac <hi>and</hi> Jacob. <hi>And God is not the God of the dead, but of the living.</hi> But he ſhould not be the God of <hi>Abraham, Iſaac</hi> and <hi>Jocob;</hi> if they ſhould not riſe againe from the dead, many other places of Scrip<g ref="char:EOLhyphen"/>ture might be brought for the further con<g ref="char:EOLhyphen"/>firmation of this truth if it were needfull, and eſpecially out of the new Teſtament, for in very deed there is no Doctrine more plainly and fully taught in the new Teſta<g ref="char:EOLhyphen"/>ment, then the Doctrine of the Reſurecti<g ref="char:EOLhyphen"/>on; and therefore unleſſe we will make both Chriſt and his Apoſtles lyers, and all the Miniſters of the Goſpell Cheaters, Jug<g ref="char:EOLhyphen"/>lers
+<pb n="48" facs="tcp:169873:27"/> and Deceivers of the people; wee muſt needs acknowledge the Reſurrection of the body; and ſoothly, if there were no Re<g ref="char:EOLhyphen"/>ſurrection, the moſt juſt and righteous God ſhould ſeeme to be unjuſt, and unrighteous, who many times in the time of this life, doth not reward the godly as he hath pro<g ref="char:EOLhyphen"/>miſed, nor puniſh the wicked as hee hath threatned; and hence it is that the Apoſtle ſaith, 2 <hi>Theſ.</hi> 1. 6. it is a righteous thing with God, to recompence tribulation to them that trouble the Saints, and to them that are troubled, reſt when the Lord Jeſus Chriſt ſhall be reveled from Heaven.</p>
+               </sp>
+               <sp>
+                  <speaker>Chriſ.</speaker>
+                  <p>But I cannot conceive how it is poſſible, that when our bodyes are conſu<g ref="char:EOLhyphen"/>med to duſt, they ſhould bee raiſed againe; and beſides, ſome mens body have beene drowned in the Sea and eaten of Fiſhes, how then is it poſſible that all men ſhould riſe again as you ſay?</p>
+               </sp>
+               <sp>
+                  <speaker>Inde.</speaker>
+                  <p>Though it be impoſſible with men, yet it is not impoſſible with God, for with him all things are poſſible, yea not onely poſſible, but alſo eaſie: and therefore I be<g ref="char:EOLhyphen"/>ſeech you be perſwaded of it, as an un<g ref="char:EOLhyphen"/>doubted truth; that that God who in the beginning was able to create all things of nothing, is much more able to make every
+<pb n="49" facs="tcp:169873:27"/> mans body at the Reſurrection of his owne matter, for doubtleſſe it is a harder matter for him to make man of nothing out of the duſt; and although untill the day of Judge<g ref="char:EOLhyphen"/>ment, the duſt of all men buried, doe lye in Common together in the bowels of the earth, and that alſo with the duſt of beaſts; yet if a man skillfull in ſeeds, be able to ſe<g ref="char:EOLhyphen"/>perate one ſeed from another; and if a man skilfull in mettels, be able to ſeperate and diſtinguiſh the earth and duſt of Gold from the earth and duſt of Silver, and ſo of other mettals; then ſurely the great and wiſe Creator of man, Seeds and Mettals, and all things elſe, is able to diſtinguiſh the duſt of men from the duſt of beaſts, and the duſt of one mans body from the duſt of ano<g ref="char:EOLhyphen"/>ther; and though the bodies of ſome men be burnt to aſhes, and the bodyes of other devoured of wilde beaſts, and others drow<g ref="char:EOLhyphen"/>ned in the Sea, and eaten of Fiſhes; yet God is able, and will certainely gather to<g ref="char:EOLhyphen"/>gether in one, every mans body, and they ſhall all receive that ſubſtance which be<g ref="char:EOLhyphen"/>longeth to them, ſo that there ſhall not be an heire of their head wanting to any one of them.</p>
+               </sp>
+               <sp>
+                  <speaker>Chriſ.</speaker>
+                  <p>But Sir, can you ſhew me any re<g ref="char:EOLhyphen"/>ſemblance of the reſurrection in nature.</p>
+               </sp>
+               <sp>
+                  <pb n="50" facs="tcp:169873:28"/>
+                  <speaker>Inde.</speaker>
+                  <p>Yea, wee have many reſemblances thereof in nature, for what doth the world daily, in the elements and creatures thereof, but imitate our Reſurrection; as for ex<g ref="char:EOLhyphen"/>ample, doe wee not ſee by the degrees of times, the whithering and failing of the leaves from the trees, the intermiſſion of their fruits &amp;c. And behold upon the ſud<g ref="char:EOLhyphen"/>daine, from a dry and dead tree, by a kinde of Reſurrection the leaves break forth a<g ref="char:EOLhyphen"/>gaine, the fruits wax bigh and ripe, and the whole tree apareled with a freſh beauty; conſider wee alſo the little ſeed, whereout the tree ariſeth, and let us comprehend if wee can, how in that ſmallneſſe of ſeed, ſo mighty a tree can bee where were the Wood, the Barke, the glory of the beames, the plentie of the fruit, when we firſt ſowed it, when we firſt threw it into the ground, were any of theſe things apparant? no they were not, what marvel is it then, if of the duſt of the earth, God at his pleaſure remarke man, when from the ſmalleſt ſeeds hee is able to produce ſo bigg a tree; doe we not alſo ſee the dying of the day daily into night, and freſhly ariſing a<g ref="char:EOLhyphen"/>gaine in the morning, as if it had never dy<g ref="char:EOLhyphen"/>ed. Aagin, doe we not ſee that before the Corne can grow and beare fruit, it muſt be
+<pb n="51" facs="tcp:169873:28"/> firſt caſt into the ground, and there rott; and even as it ſpringeth up againe, and the Lord giveth to every graine its owne body, even ſo at the Reſurrection ſhall every man be raiſed up with his own body. And again, both Philoſophers and Divines tell us, that the Phenix is firſt conſumed to aſhes by the heat of the Sun, and that afterwards of her aſhes ariſeth a young one. Laſtly, to men<g ref="char:EOLhyphen"/>tion no more, the ſwallows, wormes, and Fiſhes, which have layen dead in the win<g ref="char:EOLhyphen"/>ter; yet in the ſpring time, by vertue of the heat of the Sun, they revive againe; thus you ſee that the whole Creation doth as it were writ a Cmmentary, to give us aſſu<g ref="char:EOLhyphen"/>rance of the Reſurrection of the dead, and ſo I hope this may ſuffice to aſſure you of the Reſurrection.</p>
+               </sp>
+               <sp>
+                  <speaker>Chriſ.</speaker>
+                  <p>Well Gentlemen; I muſt confeſſe you have ſaid more for the confirmation of the truth of theſe points, then I had thought could have beene ſaid, and I hope that my heart ſhall bee hereby the better eſtabliſht therein whileſt I live, and with many thanks unto you both for your pains, I take my leave of you.</p>
+               </sp>
+               <sp>
+                  <speaker>Inde.</speaker>
+                  <p>Fare you well good friend, and the Lord write the truth of theſe points
+<pb n="52" facs="tcp:169873:29"/> In your heart, by the power of his owne Spirit.</p>
+               </sp>
+               <sp>
+                  <speaker>Preſ.</speaker>
+                  <p>The Lord bee with you, and grant that what we have ſaid, may take deepe impreſſion both in your heart and ours, that wee may bee fully confirmed in the truth of theſe points. <hi>Amen,</hi>
+                  </p>
+               </sp>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
